@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently improving my skills on **Embedded Software Security**
 
-- 🌱 I’m currently studying **Information and Communication systems - Specializing in Secure and Dependable IT systems**
+- 🌱 I’m currently studying **Information and Communication systems - Specializing in Secure and Dependable IT Systems**
 
 - 👯 I’m looking to collaborate on **Embedded Software Development**
 

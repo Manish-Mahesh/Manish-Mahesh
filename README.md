@@ -1,11 +1,11 @@
 <h1 align="center">Hello , I'm Manish Mahesh Kumar</h1>
 <h3 align="center">Master's Student at Hamburg University of Technology , Germany</h3>
 
-- 🔭 I’m currently improving my skills on **Embedded Software Security**
+- 🔭 I’m currently improving my skills on **Software Security**
 
 - 🌱 I’m currently studying **Information and Communication systems - Specializing in Secure and Dependable IT Systems**
 
-- 👯 I’m looking to collaborate on **Embedded Software Development**
+- 👯 I’m looking to collaborate on **Secure Software Development**
 
 - 📄Work Experience :- **Software Engineer - Bosch**
 

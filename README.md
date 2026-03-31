@@ -19,7 +19,8 @@
 
 ### 🤓 About Me
 
-- 🎓 **M.Sc. Information and Communication Systems** at TUHH | 📝 **Thesis:** *Technical Debt in LLM-Generated Code*
+- 🎓 **M.Sc. Information and Communication Systems** at TUHH 
+- 📝 **Currently working on Master's Thesis:** *Technical Debt in LLM-Generated Code and Codebases*
 - 💼 **Working Student, Software Engineering** at **Evitado Technologies GmbH** (Infrastructure & Automation)
 - ⚙️ **Former Associate Software Engineer** at **Bosch** (Systems Profiling, C/C++ Firmware & Performance Tuning)
 - 🔐 Passionate about **Performance Optimization, Reliability Engineering, and Secure Systems**

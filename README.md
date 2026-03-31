@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/Manish-Mahesh">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manish-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manish-Mahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Manish-Mahesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Mahesh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manish-Mahesh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   </a>
 </p>
 
